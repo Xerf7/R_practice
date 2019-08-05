@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564748732190.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1564504775",
+    "id" : "4D342763",
+    "lastKnownWriteTime" : 1564748704,
+    "last_content_update" : 1564748704,
+    "path" : "D:/easy_r/chapter3/script1.R",
+    "project_path" : "chapter3/script1.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

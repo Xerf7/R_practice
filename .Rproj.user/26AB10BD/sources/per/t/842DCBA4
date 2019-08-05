@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564919472656.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "842DCBA4",
+    "lastKnownWriteTime" : 7881713198636343918,
+    "last_content_update" : 1564919472656,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E4D07328",
+        "caption" : "exam",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=exam&cache_key=E4D07328",
+        "displayedObservations" : 20,
+        "environment" : "",
+        "expression" : "exam",
+        "object" : "exam",
+        "preview" : 0,
+        "totalObservations" : 20,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
